@@ -7,5 +7,15 @@
         "title": "Laundry",
         "text": "get laundry",
         "note_id": "a2347b31-ce7d-4fb1-afba-41a6164477b5"
+    },
+    {
+        "title": "pay bill",
+        "text": "pay hospital bill",
+        "note_id": "c7ca7b72-15db-4b17-9f8b-33516653463f"
+    },
+    {
+        "title": "Grocery List",
+        "text": "Milk\nEggs\nBread",
+        "note_id": "2012eb07-6b1d-4f1e-b9b8-201588533bf4"
     }
 ]
