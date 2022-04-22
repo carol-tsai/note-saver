@@ -8,7 +8,7 @@ notes.get('/', (req, res) =>
 );
 
 // POST Route for saving notes
-fb.post('/', (req, res) => {
+notes.post('/', (req, res) => {
    // Destructuring assignment for the items in req.body
    const { title, text } = req.body;
 
